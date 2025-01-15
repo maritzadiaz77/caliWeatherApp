@@ -14,15 +14,14 @@ THEN I am again presented with current and future conditions for that city
 ## Installation
 
 Github Repo Link
-
-(insert Repo link here)
+https://github.com/maritzadiaz77/caliWeatherApp 
 
 Live project link
 
 (insert project link here)
 
 ## Usage
-
+![app image](<Assets\images\CityWeatherD.png>)
 
 
 ## Credits
