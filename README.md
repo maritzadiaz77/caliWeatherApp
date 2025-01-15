@@ -17,8 +17,7 @@ Github Repo Link
 https://github.com/maritzadiaz77/caliWeatherApp 
 
 Live project link
-
-(insert project link here)
+https://maritzadiaz77.github.io/caliWeatherApp/ 
 
 ## Usage
 ![app image](<Assets\images\CityWeatherD.png>)
