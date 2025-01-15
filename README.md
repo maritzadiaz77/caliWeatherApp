@@ -24,7 +24,7 @@ https://maritzadiaz77.github.io/caliWeatherApp/
 
 
 ## Credits
-
+w3schools and google for help with css
 
 ## License
 
